@@ -1,5 +1,5 @@
 
-## 项目
+## 项目清单
 - [GHBJayce/rerun](https://github.com/GHBJayce/rerun/tree/feat/1.5.x) 一个shell脚本框架，基于[rerun/rerun](https://github.com/rerun/rerun)进行修改。
 - [daily-shell](https://github.com/GHBJayce/daily-shell/tree/feat/0.x) 封装日常会用到的shell脚本，基于[GHBJayce/rerun](https://github.com/GHBJayce/rerun/tree/feat/1.5.x)。
 - [j-weapons](https://github.com/GHBJayce/j-weapons) J武器。一个开箱即用的JS函数库。[查看](https://ghbjayce.github.io/j-weapons/)
