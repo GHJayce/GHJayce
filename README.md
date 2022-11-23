@@ -11,7 +11,7 @@
 - [飞岩走壁](https://github.com/GHBJayce/flying-rock-game) 模仿着做的第一款网页小游戏，[前往体验](https://ghbjayce.github.io/flying-rock-game)
 
 
-[![GHBJayce github stats](https://github-readme-stats.vercel.app/api?username=GHBJayce&theme=default&show_icons=true&bg_color=30,337edd,6491c7&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/GHBJayce)
+[![GHBJayce github stats](https://github-readme-stats.vercel.app/api?username=GHBJayce&theme=default&show_icons=true&bg_color=30,337edd,6491c7&title_color=fff&text_color=fff&icon_color=ffffff)](https://github.com/GHBJayce)
 
 
 <!-- 主页访问量<br> -->
