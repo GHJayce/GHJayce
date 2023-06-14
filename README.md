@@ -1,4 +1,10 @@
 
+## 源码阅读
+- hyperf
+  - [hyperf/di v3.0.18](https://github.com/GHBJayce/hyperf-di/tree/3.0.18-read)，主要是启动过程，对`Hyperf\Di\ClassLoader::init()`进行分析，做了哪些事情
+  - [hyperf/config v3.0.20](https://github.com/GHBJayce/hyperf-config/tree/3.0.20-read)
+  - [hyperf/support v3.0.1](https://github.com/GHBJayce/hyperf-support/tree/3.0.1-read)
+
 ## 项目清单
 - [GHBJayce/rerun](https://github.com/GHBJayce/rerun/tree/feat/1.5.x) 一个shell脚本框架，基于[rerun/rerun](https://github.com/rerun/rerun)进行修改。
 - [daily-shell](https://github.com/GHBJayce/daily-shell/tree/feat/0.x) 封装日常会用到的shell脚本，基于[GHBJayce/rerun](https://github.com/GHBJayce/rerun/tree/feat/1.5.x)。
