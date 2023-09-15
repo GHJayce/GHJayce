@@ -55,6 +55,10 @@ HTML5 & HTML Game
 - noahbuscher/macaw
   - [Hi, I've some problem for routing](https://github.com/noahbuscher/macaw/issues/73)
 
+## Discussions
+- CaiJimmy/hugo-theme-stack
+  - [引用于 cdn 的图片 没法生成图册吗？](https://github.com/CaiJimmy/hugo-theme-stack/discussions/659)
+
 [![GHBJayce github stats](https://github-readme-stats.vercel.app/api?username=GHBJayce&theme=default&show_icons=true&bg_color=30,337edd,6491c7&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=false)](https://github.com/GHBJayce)
 
 
